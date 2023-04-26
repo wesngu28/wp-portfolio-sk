@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-portfolio-sk/sitemap_index.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-portfolio-sk/sitemap_index.xml";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-portfolio-sk/sitemap_index.xml">/wp-portfolio-sk/sitemap_index.xml</a></p>
+	</body>
+</html>

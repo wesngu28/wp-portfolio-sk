@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wesley Nguyen</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/wp-portfolio-sk/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-portfolio-sk/</link>
 	<description>Portfolio</description>
 	<lastBuildDate></lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/04/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-portfolio-sk/wp-content/uploads/2023/04/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>Wesley Nguyen</title>
-	<link>/</link>
+	<link>/wp-portfolio-sk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
