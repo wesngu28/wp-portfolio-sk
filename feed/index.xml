@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Portfolio</title>
+	<title>Wesley Nguyen</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Wordpress learning</description>
+	<description>Portfolio</description>
 	<lastBuildDate></lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,5 +19,13 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Wesley Nguyen</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
